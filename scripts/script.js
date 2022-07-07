@@ -13,8 +13,7 @@ function onReady(assets) {
                counterNumber.text = value.newValue.toString();
           });
      });
-     
-}
+     }
 
 
 
