@@ -1,3 +1,6 @@
+// AJA World of AR
+// Blinking Eye Game
+
 const Scene = require('Scene');
 export const Diagnostics = require('Diagnostics');
 const Patches = require("Patches");
